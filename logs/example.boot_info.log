@@ -1,0 +1,388 @@
+2020-01-03 16:41:49.927 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 8724 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:41:49.933 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:41:51.618 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:41:51.619 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:41:51.619 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:41:51.778 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:41:52.319 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:42:40.633 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 7392 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:42:40.638 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:42:42.097 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:42:42.098 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:42:42.098 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:42:42.244 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:42:42.676 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:43:16.501 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 8460 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:43:16.506 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:43:18.389 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:43:18.391 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:43:18.391 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:43:18.542 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:43:18.967 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:43:43.960 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 10444 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:43:43.966 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:43:45.579 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:43:45.580 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:43:45.580 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:43:45.749 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:43:46.323 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:45:56.716 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 3556 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:45:56.724 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:45:58.146 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:45:58.147 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:45:58.148 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:45:58.284 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:45:58.709 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:47:04.376 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 10464 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:47:04.381 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:47:06.520 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:47:06.521 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:47:06.521 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:47:06.666 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:47:07.183 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 16:47:07.753 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:47:55.516 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 8976 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:47:55.521 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:47:57.166 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:47:57.167 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:47:57.168 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:47:57.333 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:47:57.781 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:48:48.682 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 6936 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:48:48.693 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:48:50.713 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:48:50.717 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:48:50.720 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:48:50.817 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:48:51.289 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 16:48:51.664 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:49:42.633 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 5000 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:49:42.639 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:49:44.526 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:49:44.527 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:49:44.528 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:49:44.620 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:49:45.003 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 16:49:45.202 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:50:15.446 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 10760 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:50:15.462 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:50:17.073 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:50:17.074 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:50:17.075 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:50:17.218 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:50:17.594 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 16:50:17.795 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:50:42.072 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 6504 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:50:42.076 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:50:43.660 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:50:43.661 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:50:43.662 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:50:43.759 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:50:44.148 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 16:50:44.328 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:52:30.501 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 8200 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:52:30.506 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:52:32.290 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:52:32.291 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:52:32.292 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:52:32.431 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:52:32.935 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 16:52:33.310 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 16:53:27.939 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 3780 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 16:53:27.945 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 16:53:30.082 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 16:53:30.083 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 16:53:30.083 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 16:53:30.174 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 16:53:30.686 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 16:53:31.068 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 17:08:54.736 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 10352 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:08:54.740 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:08:56.932 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:08:56.933 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:08:56.934 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:08:57.028 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:08:57.624 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:08:58.102 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:08:58.229 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:08:58.300 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:08:58.506 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:08:58.532 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 4.923 seconds (JVM running for 6.13)
+2020-01-03 17:09:21.665 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 6648 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:09:21.675 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:09:23.575 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:09:23.576 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:09:23.576 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:09:23.662 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:09:24.122 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:09:24.565 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:09:24.578 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:09:24.608 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:09:24.776 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:09:24.820 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 3.888 seconds (JVM running for 4.94)
+2020-01-03 17:10:22.865 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 7940 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:10:22.870 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:10:24.824 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:10:24.825 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:10:24.825 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:10:24.919 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:10:25.422 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:10:25.780 [main] INFO  [org.apache.catalina.core.StandardService-173] - Stopping service [Tomcat]
+2020-01-03 17:22:46.107 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 11224 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:22:46.113 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:22:48.654 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:22:48.655 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:22:48.656 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:22:48.755 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:22:49.375 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:22:50.073 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:22:50.088 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:22:50.132 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:22:50.429 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:22:50.482 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 5.154 seconds (JVM running for 6.292)
+2020-01-03 17:24:46.652 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 9972 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:24:46.653 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:24:48.525 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:24:48.526 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:24:48.526 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:24:48.622 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:24:49.201 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:24:49.618 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:24:49.633 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:24:49.668 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:24:49.846 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:24:49.874 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 4.132 seconds (JVM running for 5.335)
+2020-01-03 17:24:49.876 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - ficus-server started at http://10.13.87.194:8082/apis/v1   and this routine is 9972@JRA1E1AD8ABEDD 
+2020-01-03 17:24:49.876 [main] INFO  [com.example.demo.web.DemoWebApplication-32] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:26:26.448 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 6448 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:26:26.453 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:26:28.282 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:26:28.284 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:26:28.285 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:26:28.379 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:26:28.878 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:26:29.283 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:26:29.297 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:26:29.332 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:26:29.504 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:26:29.532 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 3.863 seconds (JVM running for 4.993)
+2020-01-03 17:26:29.535 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - ficus-server started at http://10.13.87.194:8082/apis/v1   and this routine is 6448@JRA1E1AD8ABEDD 
+2020-01-03 17:26:29.535 [main] INFO  [com.example.demo.web.DemoWebApplication-32] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:26:33.246 [http-nio-8082-exec-1] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-03 17:26:33.328 [http-nio-8082-exec-1] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.424 [http-nio-8082-exec-1] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.651 [http-nio-8082-exec-4] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.669 [http-nio-8082-exec-4] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.688 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.690 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.703 [http-nio-8082-exec-8] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.706 [http-nio-8082-exec-8] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.723 [http-nio-8082-exec-9] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.725 [http-nio-8082-exec-9] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.734 [http-nio-8082-exec-10] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.736 [http-nio-8082-exec-10] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.752 [http-nio-8082-exec-3] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.753 [http-nio-8082-exec-3] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.765 [http-nio-8082-exec-2] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.767 [http-nio-8082-exec-2] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.785 [http-nio-8082-exec-1] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.788 [http-nio-8082-exec-1] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.819 [http-nio-8082-exec-4] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.821 [http-nio-8082-exec-4] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.953 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.955 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.973 [http-nio-8082-exec-8] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:33.976 [http-nio-8082-exec-8] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.007 [http-nio-8082-exec-9] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.011 [http-nio-8082-exec-9] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.038 [http-nio-8082-exec-10] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.041 [http-nio-8082-exec-10] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.069 [http-nio-8082-exec-6] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.071 [http-nio-8082-exec-6] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.097 [http-nio-8082-exec-3] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.100 [http-nio-8082-exec-3] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.547 [http-nio-8082-exec-2] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.550 [http-nio-8082-exec-2] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.570 [http-nio-8082-exec-1] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.572 [http-nio-8082-exec-1] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.583 [http-nio-8082-exec-4] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.588 [http-nio-8082-exec-4] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.596 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.598 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.606 [http-nio-8082-exec-8] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.608 [http-nio-8082-exec-8] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.617 [http-nio-8082-exec-9] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.618 [http-nio-8082-exec-9] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.628 [http-nio-8082-exec-10] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.629 [http-nio-8082-exec-10] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.647 [http-nio-8082-exec-6] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.651 [http-nio-8082-exec-6] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.737 [http-nio-8082-exec-3] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.739 [http-nio-8082-exec-3] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.749 [http-nio-8082-exec-2] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.751 [http-nio-8082-exec-2] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.842 [http-nio-8082-exec-1] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.846 [http-nio-8082-exec-1] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.911 [http-nio-8082-exec-5] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.915 [http-nio-8082-exec-5] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.928 [http-nio-8082-exec-4] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.931 [http-nio-8082-exec-4] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.943 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:34.945 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:35.025 [http-nio-8082-exec-8] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:35.029 [http-nio-8082-exec-8] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:35.056 [http-nio-8082-exec-9] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:35.058 [http-nio-8082-exec-9] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:35.093 [http-nio-8082-exec-10] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:35.096 [http-nio-8082-exec-10] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:35.128 [http-nio-8082-exec-6] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:35.129 [http-nio-8082-exec-6] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:35.152 [http-nio-8082-exec-3] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:35.155 [http-nio-8082-exec-3] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:26:46.215 [http-nio-8082-exec-2] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:28:04.064 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 10664 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:28:04.068 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:28:05.985 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:28:05.986 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:28:05.986 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:28:06.078 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:28:06.625 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:28:06.989 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:28:07.003 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:28:07.038 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:28:07.206 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:28:07.233 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 3.976 seconds (JVM running for 5.111)
+2020-01-03 17:28:07.237 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - ficus-server started at http://10.13.87.194:8082/apis/v1   and this routine is 10664@JRA1E1AD8ABEDD 
+2020-01-03 17:28:07.237 [main] INFO  [com.example.demo.web.DemoWebApplication-32] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:28:11.654 [http-nio-8082-exec-1] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-03 17:28:11.684 [http-nio-8082-exec-1] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:29:04.806 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 10328 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:29:04.810 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:29:07.088 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:29:07.089 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:29:07.090 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:29:07.196 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:29:07.750 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:29:08.206 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:29:08.227 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:29:08.267 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:29:08.476 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:29:08.505 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 4.551 seconds (JVM running for 6.012)
+2020-01-03 17:29:08.508 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - ficus-server started at http://10.13.87.194:8082/apis/v1   and this routine is 10328@JRA1E1AD8ABEDD 
+2020-01-03 17:29:08.509 [main] INFO  [com.example.demo.web.DemoWebApplication-32] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:29:11.449 [http-nio-8082-exec-3] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-03 17:29:22.134 [http-nio-8082-exec-8] INFO  [com.example.demo.web.handler.IdentityInterceptor-26] - user identity [namespace:null]
+2020-01-03 17:34:45.928 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 10228 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:34:45.932 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:34:47.665 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:34:47.666 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:34:47.666 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:34:47.751 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:34:48.227 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:34:48.597 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:34:48.610 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:34:48.640 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:34:48.798 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:34:48.828 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 3.596 seconds (JVM running for 4.657)
+2020-01-03 17:34:48.831 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - ficus-server started at http://10.13.87.194:8082/apis/v1   and this routine is 10228@JRA1E1AD8ABEDD 
+2020-01-03 17:34:48.831 [main] INFO  [com.example.demo.web.DemoWebApplication-32] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:35:09.324 [http-nio-8082-exec-1] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-03 17:35:19.517 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-24] - user identity [namespace:null]
+2020-01-03 17:38:36.060 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 8056 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:38:36.065 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:38:37.978 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:38:37.979 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:38:37.980 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:38:38.067 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:38:38.599 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:38:39.018 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:38:39.032 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:38:39.063 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:38:39.226 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:38:39.253 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 4.197 seconds (JVM running for 5.25)
+2020-01-03 17:38:39.257 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - started at http://10.13.87.194:8082/apis/v1   and this routine is 8056@JRA1E1AD8ABEDD 
+2020-01-03 17:38:39.257 [main] INFO  [com.example.demo.web.DemoWebApplication-32] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:38:49.981 [http-nio-8082-exec-1] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-03 17:39:03.017 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-24] - user identity [namespace:null]
+2020-01-03 17:40:09.072 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 2984 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:40:09.077 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:40:10.948 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:40:10.949 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:40:10.949 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:40:11.043 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:40:11.551 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:40:11.931 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:40:11.944 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:40:11.975 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:40:12.146 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:40:12.174 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 4.027 seconds (JVM running for 5.103)
+2020-01-03 17:40:12.177 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - started at http://10.13.87.194:8082/apis/v1   and this routine is 2984@JRA1E1AD8ABEDD 
+2020-01-03 17:40:12.177 [main] INFO  [com.example.demo.web.DemoWebApplication-32] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:40:13.996 [http-nio-8082-exec-1] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-03 17:42:11.395 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 6448 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:42:11.399 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:42:13.065 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:42:13.066 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:42:13.066 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:42:13.156 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:42:13.731 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:42:14.108 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:42:14.120 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:42:14.153 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:42:14.322 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:42:14.347 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 3.775 seconds (JVM running for 4.892)
+2020-01-03 17:42:14.350 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - started at http://10.13.87.194:8082/apis/v1   and this routine is 6448@JRA1E1AD8ABEDD 
+2020-01-03 17:42:14.350 [main] INFO  [com.example.demo.web.DemoWebApplication-32] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:42:22.384 [http-nio-8082-exec-1] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-03 17:42:30.375 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-22] - 拦截器
+2020-01-03 17:42:30.437 [http-nio-8082-exec-7] INFO  [com.example.demo.web.aspect.LogAspect-41] - request message---------->[token:null,method:POST,url:/apis/v1/test/name,ip:10.13.87.194]
+2020-01-03 17:42:30.444 [http-nio-8082-exec-7] INFO  [com.example.demo.web.controller.TestController-33] - name:123
+2020-01-03 17:42:30.517 [http-nio-8082-exec-7] INFO  [com.example.demo.web.aspect.LogAspect-47] - response message---------->["123"]
+2020-01-03 17:48:06.422 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 10316 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:48:06.427 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:48:08.045 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:48:08.046 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:48:08.046 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:48:08.134 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:48:08.632 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:48:09.013 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:48:09.028 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:48:09.059 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:48:09.214 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:48:09.241 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 3.696 seconds (JVM running for 4.973)
+2020-01-03 17:48:09.244 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - started at http://10.13.87.194:8082/apis/v1   and this routine is 10316@JRA1E1AD8ABEDD 
+2020-01-03 17:48:09.245 [main] INFO  [com.example.demo.web.DemoWebApplication-32] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:48:12.186 [http-nio-8082-exec-1] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-03 17:48:19.368 [http-nio-8082-exec-7] INFO  [com.example.demo.web.handler.IdentityInterceptor-22] - 拦截器
+2020-01-03 17:48:19.377 [http-nio-8082-exec-7] INFO  [com.example.demo.web.aspect.LogAspect-41] - request message---------->[token:null,method:POST,url:/apis/v1/test/name,ip:10.13.87.194]
+2020-01-03 17:48:19.387 [http-nio-8082-exec-7] INFO  [com.example.demo.web.controller.TestController-33] - name:123
+2020-01-03 17:48:19.452 [http-nio-8082-exec-7] INFO  [com.example.demo.web.aspect.LogAspect-47] - response message---------->["123"]
+2020-01-03 17:51:30.171 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 12120 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:51:30.176 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:51:31.893 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:51:31.894 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:51:31.895 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:51:31.985 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:51:32.491 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:51:32.853 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:51:32.866 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:51:32.897 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:51:33.071 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:51:33.101 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 3.887 seconds (JVM running for 5.156)
+2020-01-03 17:51:33.105 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - started at http://10.13.87.194:8082/apis/v1   and this routine is 12120@JRA1E1AD8ABEDD 
+2020-01-03 17:51:33.105 [main] INFO  [com.example.demo.web.DemoWebApplication-32] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:53:24.456 [main] INFO  [com.example.demo.web.DemoWebApplication-55] - Starting DemoWebApplication on JRA1E1AD8ABEDD with PID 9584 (D:\GitHub\spring-boot-demo2\demo-web\target\classes started by jiruifeng in D:\GitHub\spring-boot-demo2)
+2020-01-03 17:53:24.466 [main] INFO  [com.example.demo.web.DemoWebApplication-655] - The following profiles are active: dev
+2020-01-03 17:53:26.222 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Initializing ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:53:26.223 [main] INFO  [org.apache.catalina.core.StandardService-173] - Starting service [Tomcat]
+2020-01-03 17:53:26.223 [main] INFO  [org.apache.catalina.core.StandardEngine-173] - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-03 17:53:26.320 [main] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring embedded WebApplicationContext
+2020-01-03 17:53:26.861 [main] INFO  [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping-69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-01-03 17:53:27.340 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-151] - Context refreshed
+2020-01-03 17:53:27.355 [main] INFO  [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper-154] - Found 1 custom documentation plugin(s)
+2020-01-03 17:53:27.386 [main] INFO  [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner-41] - Scanning for api listing references
+2020-01-03 17:53:27.566 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol-173] - Starting ProtocolHandler ["http-nio-8082"]
+2020-01-03 17:53:27.598 [main] INFO  [com.example.demo.web.DemoWebApplication-61] - Started DemoWebApplication in 3.936 seconds (JVM running for 4.889)
+2020-01-03 17:53:27.602 [main] INFO  [com.example.demo.web.DemoWebApplication-30] - started at http://10.13.87.194:8082/apis/v1   and this routine is 9584@JRA1E1AD8ABEDD 
+2020-01-03 17:53:27.602 [main] INFO  [com.example.demo.web.DemoWebApplication-31] - API message  http://10.13.87.194:8082/apis/v1/swagger-ui.html
+2020-01-03 17:53:30.404 [http-nio-8082-exec-1] INFO  [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/apis/v1]-173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
