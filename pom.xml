@@ -17,6 +17,10 @@
     <modules>
         <module>demo-web</module>
         <module>demo-api</module>
+        <module>demo-service</module>
+        <module>manager</module>
+        <module>demo-manager</module>
+        <module>demo-dao</module>
     </modules>
 
     <properties>
